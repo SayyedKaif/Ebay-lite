@@ -1,0 +1,23 @@
+*{
+    font-family: "Market Sans", Arial, sans-serif;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* img {
+    border: 2px solid red;
+    height: 12px;
+    width: 56px;
+    vertical-align: middle;
+    border: 0;
+} */
+
+img {
+    width: 155px;
+    height: 142px;
+    object-fit: fill;
+  }
